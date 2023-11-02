@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "front-end"
+		},
+		{
+			"path": "broker-service"
+		},
+		{
+			"path": "project"
+		},
+		{
+			"path": "authentication-service"
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target": true
+		},
+	"gopls": {
+		"experimentalWorkspaceModule": true,
+		
+		}
+	}
+}
